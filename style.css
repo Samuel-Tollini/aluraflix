@@ -1,12 +1,12 @@
 body { color: red;
     background: rgb(42, 100, 173);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 header{
     color: white;
     border-bottom: solid 3px white;
-font-family: 'Times New Roman', Times, serif;
+
 
 
 }
