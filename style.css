@@ -10,5 +10,5 @@ header {
     border-bottom: solid 3px white;
     padding: 20px;
 font-size: 32px;
-text-emphasis-color: rgb(200,100,200);
+text: rgb(200,100,200);
 }
