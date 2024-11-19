@@ -1,12 +1,14 @@
-body { color: red;
+body {
+    color: red;
     background: rgb(42, 100, 173);
     font-family: 'Courier New', Courier, monospace;
 
 }
-header{
+
+header {
     color: white;
     border-bottom: solid 3px white;
-
+    padding: 20px;
 
 
 }
